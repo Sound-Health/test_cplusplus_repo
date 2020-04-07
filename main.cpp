@@ -1,6 +1,7 @@
 #include <iostream>
 
 using std::cout;
+using std::cin;
 using std::endl;
 using std::string;
 
@@ -28,7 +29,7 @@ private:
 // Default color is blue
 CarColor::CarColor()
 {
-  color = blue;
+  color = "blue";
 }
 
 // Can initialize color to some other color
