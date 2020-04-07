@@ -5,7 +5,7 @@ using std::endl;
 using std::string;
 
 // Simple hello World program
-int int main()
+int main()
 {
   string hello = "Hello World";
 
