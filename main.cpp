@@ -1,3 +1,4 @@
+//test comment for GitHub commit - 2019-04-13 at 9:48 AM
 #include <iostream>
 
 using std::cout;
@@ -9,7 +10,7 @@ class CarColor
 {
 public:
 
-  // Set default car color to blue
+  // Set default car color to blu
   CarColor ();
 
   // Overloaded constructor
