@@ -11,7 +11,7 @@ class CarColor
 {
 public:
 
-  // Set default car color to blu
+  // Set default car color to blue
   CarColor ();
 
   // Overloaded constructor
@@ -38,7 +38,6 @@ CarColor::CarColor()
 CarColor::CarColor (string color)
 {
   this->color = color;
-
 }
 
 // Returns the color
